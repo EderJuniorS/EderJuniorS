@@ -46,8 +46,8 @@ Me chamo Éder Junior, tenho 18 anos e sou morador de Franca - SP. Conclui o ens
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 /><!-- Python -->
 
-<!-- Espaçamento -->
-<br>
+<!-- Cria uma linha de separação -->
+---
 
 <!-- Estatisticas em grafico -->
 ### 📊 Estatisticas
