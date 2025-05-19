@@ -23,28 +23,36 @@ Me chamo Éder Junior, tenho 18 anos e sou morador de Franca - SP. Conclui o ens
 /><!-- HTML -->
 <img
     align-items="left"
-    alt="HTML"
-    title="HTML"
+    alt="CSS"
+    title="CSS"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 /><!-- CSS -->
 <img
     align-items="left"
-    alt="HTML"
-    title="HTML"
+    alt="JavaScript"
+    title="JavaScript"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 /><!-- JavaScript -->
 <img
     align-items="left"
-    alt="HTML"
-    title="HTML"
+    alt="Python"
+    title="Python"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 /><!-- Python -->
+<img
+    align-items="left"
+    alt="Open AI"
+    title="Open AI"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/df7aa06c-795b-4d73-8026-ff0902311788"
+/><!-- Open AI -->
 
 <!-- Cria uma linha de separação -->
 ---
