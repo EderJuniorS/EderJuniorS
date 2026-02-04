@@ -2,6 +2,8 @@
   <h1>Olá, eu sou o Éder Junior! 👋</h1>
   <h3>Ciência da Computação @ Unifran | Full Stack Developer em Formação</h3>
   
+  <br>
+
   <a href="https://www.linkedin.com/in/ederjuniormatossilva">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -41,15 +43,15 @@ Sou apaixonado por transformar linhas de código em soluções reais. Graduando 
 <br>
 
 <div align="center">
-  <h3>🔥 Estatísticas & Conquistas</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EderJuniorS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <h3>📊 Métricas do GitHub</h3>
   
-  <br><br>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=EderJuniorS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://img.shields.io/github/followers/EderJuniorS?style=for-the-badge&color=7aa2f7&labelColor=1a1b27&logo=github&label=Seguidores" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/EderJuniorS?style=for-the-badge&color=bb9af7&labelColor=1a1b27&logo=apachespark&label=Estrelas" alt="Estrelas" />
+  <img src="https://img.shields.io/github/languages/count/EderJuniorS?style=for-the-badge&color=9ece6a&labelColor=1a1b27&logo=codereview&label=Repositórios" alt="Repos" />
 </div>
 
 <br>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
