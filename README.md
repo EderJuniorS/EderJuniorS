@@ -1,76 +1,52 @@
-<!-- Titulo principal -->
-# 🧑‍💻 Éder Junior
+<div align="center">
+  <h1>Olá, eu sou o Éder Junior! 👋</h1>
+  <h3>Ciência da Computação @ Unifran | Full Stack Developer em Formação</h3>
+  
+  <a href="https://www.linkedin.com/in/ederjuniormatossilva">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:ederjunior.msilva@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
-<!-- Profissão -->
-**`Desenvolvedor/Estudante - Ciência da Computação`**
+<br>
 
-<!-- Descrição do perfil -->
-Me chamo Éder Junior, tenho 18 anos e sou morador de Franca - SP. Conclui o ensino médio na Etec Dr. Júlio Cardoso, com o curso técnico em Desenvolvimento do Sistema. Atualmente, estou cursando Ciência da Computação na Unifran. Estou apaixonado pela programação possuindo conhecimentos e habilidades no front-end e aprendendo o back-end. Sempre estudando e me adaptando as ferramentas de inteligência artificial. Possuo uma compreensão em lógica de programação, aplicada com sucesso em diversos projetos pessoais. Estou buscando continuamente inovar e integrar novas tecnologias nos projetos que realizo, aprimorando soluções criativas e eficientes para desafios digitais.
+## 🚀 Sobre Mim
 
-<!-- Cria uma linha de separação -->
+Sou apaixonado por transformar linhas de código em soluções reais. Graduando em **Ciência da Computação** e Técnico em Desenvolvimento de Sistemas, meu foco atual é a stack moderna de JavaScript para criar aplicações web escaláveis e produtos digitais.
+
+- 🔭 Atualmente estou trabalhando no **Vendetta Pay** (SaaS de Pagamentos).
+- 📚 Estou aprofundando meus conhecimentos em **React.js, Node.js e Arquitetura de Software**.
+- 💡 Tenho interesse especial em **Fintechs, IA e Segurança**.
+- 🎯 Objetivo: Desenvolver soluções de alto impacto em grandes corporações ou startups inovadoras.
+
 ---
 
-<!-- Titulo de conhecimento -->
-### 🤖 Linguagens e Tecnologias
+<div align="center">
+  <h3>🛠️ Tech Stack & Ferramentas</h3>
+  
+  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  
+  <img align="center" alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
-<img
-    align-items="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/><!-- HTML -->
-<img
-    align-items="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/><!-- CSS -->
-<img
-    align-items="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/><!-- JavaScript -->
-<img
-    align-items="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/><!-- Python -->
-<img
-    align-items="left"
-    alt="Open AI"
-    title="Open AI"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://github.com/user-attachments/assets/df7aa06c-795b-4d73-8026-ff0902311788"
-/><!-- Open AI -->
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
 
-<!-- Cria uma linha de separação -->
----
+<br>
 
-<!-- Estatisticas em grafico -->
-### 📊 Estatisticas
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EderJuniorS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderJuniorS&layout=compact&theme=tokyonight&langs_count=6"/>
+</div>
 
-<img
-    align-items="left"
-    alt="GitHub Estatus"
-    height="150px"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=EderJuniorS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-<img
-    align-items="left"
-    alt="GitHub Estatus"
-    height="150px"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderJuniorS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3"
-/>
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
