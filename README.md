@@ -41,9 +41,12 @@ Sou apaixonado por transformar linhas de código em soluções reais. Graduando 
 <br>
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EderJuniorS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderJuniorS&layout=compact&theme=tokyonight&langs_count=6"/>
+  <h3>🔥 Estatísticas & Conquistas</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EderJuniorS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=EderJuniorS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 <br>
